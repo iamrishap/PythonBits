@@ -1,0 +1,320 @@
+
+
+#########################	arrays	#########################
+
+1. Maximum Absolute Difference
+2. Repeat And Missing Number
+3. Anti Diagonals
+4. Wave Array
+5. Merge Intervals
+6. Maximum Unsorted Subarray
+7. N By Three Times Repeated
+8. Add One To The Number
+9. Find Duplicate In Array
+10. Min Steps Infinite Grid
+11. Simple Queries
+12. Max Non Neg Subarray
+13. Rotate Matrix
+14. Kth Row Pascal Triangle
+15. First Missing Positive
+16. Merge Overlapping Intervals
+17. Max Sum Contigous Array
+18. Nobel Integer
+19. Max Consecutive Gap
+20. Maxprod
+21. Result
+22. Pascal Triangle
+23. Hotel Bookings Possible
+24. Max Distance
+25. Largest Number
+26. Triplets With Sum Between Given Range
+27. Flip
+28. Set Matrix Zeros
+29. Next Permutation
+30. Max Unsorted Subarray
+31. Find Permutation
+32. Sprial Order Matrix 2
+
+
+#########################	backtracking	#########################
+
+1. Combinations Sum 2
+2. Gray Code
+3. Subset 2
+4. Permutations
+5. Kth Permutation Sequence
+6. Palindrome Partioning
+7. Combinations Sum
+8. Subset
+9. Generate Perenthesis
+10. Sudoku
+11. Combinations
+12. N Queens
+13. Letter Phone
+
+
+#########################	binary-search	#########################
+
+1. Rotated Sorted Array Search
+2. Matrix Search
+3. Matrix Median
+4. Square Root Of Integer
+5. Implement Power Function
+6. Search For A Range
+7. Painters Partition Problem
+8. Allocate Books
+9. Sorted Insert Position
+10. Median Of Array
+
+
+#########################	bit-manipulation	#########################
+
+1. Reverse Bits
+2. Different Bits Sum Pairwise
+3. Divide Integers
+4. Number Of 1 Bits
+5. Single Number
+6. Min Xor Value
+7. Single Number 2
+
+
+#########################	dp	#########################
+
+1. Best Time To Buy And Sell Stocks 3
+2. Unique Bst 2
+3. Coins In A Line
+4. Rod Cutting
+5. Queen Attack
+6. Arrange 2
+7. Longest Artithematic Progression
+8. Evaluate Expression To True
+9. Best Time To Buy And Sell Stocks 2
+10. Word Break 1
+11. Intersecting Chords In A Circle
+12. Edit Distance
+13. Max Sum Path Binary Tree
+14. Stairs
+15. Repeating Subsequence
+16. Max Sum Without Adjacent Elements
+17. Min Sum Path In Triangle
+18. N Digit Numbers With Digit Sum S
+19. Largest Area Rectangle Permutations
+20. Jump Game Array
+21. Ways To Decode
+22. Unique Paths In A Grid
+23. Best Time To Buy And Sell Stocks
+24. Regex Match 2
+25. Palindrome Partitioning 2
+26. Tushars Birthday Party
+27. Scramble String
+28. Flip Array
+29. Sub Matrices With Sum Zero
+30. Regex Match 1
+31. Longest Increasing Subsequence
+32. Dungeon Princess
+33. Kingdom War
+34. Interleaving Strings
+35. Longest Valid Parenthesis
+36. Max Rectangle In Binary Matrix
+37. Ways To Color 3n Board
+38. Kth Manhattan Distance Neighbourhood
+39. Min Jumps Array
+40. Coin Sum Infinite
+41. Word Break 2
+42. Length Of Longest Subsequence
+43. Distinct Subsequences
+44. Shortest Common Superstring
+45. Tushar Bday Bombs
+46. Equal Average Partition
+47. Max Product Subarray
+48. Min Sum Path In Matrix
+49. Count Permutations Of Bst
+
+
+#########################	graphs	#########################
+
+1. Smallest Multiple With Zero And One
+2. Capture Regions On Board
+3. Valid Path
+4. Knight On Chess Board
+5. Word Ladder 1
+6. Commutable Islands
+7. Stepping Numbers
+8. Sum_of_fib_numbers
+9. __init__
+10. Level Order
+11. Courses Prerequisites
+12. Word Search Board
+13. Sorted Ll To Bst
+14. Largest Distance Bw Tree Nodes
+15. Smallest Seq With Primes
+16. Black Shapes
+
+
+#########################	greedy	#########################
+
+1. Distribute Candy
+2. Bulbs
+3. Majority Element
+4. Seats
+5. Highest Product
+6. Assign Mice To Holes
+7. Gas Station
+
+
+#########################	hashing	#########################
+
+1. Fraction
+2. Equal
+3. Colorful Number
+4. Anagrams
+5. Window String
+6. Longest Substring Without Repeat
+7. Substring Concatenation
+8. 4 Sum
+9. Diff 2
+10. Largest Continuous Sequence Zero Sum
+11. Valid Sudoku
+12. Copy List
+13. 2 Sum
+14. Points On A Straight Line
+
+
+#########################	heaps-and-maps	#########################
+
+1. Magician And Chocolates
+2. N Max Pair Combinations
+3. Ways To Form Maxheap
+4. Lru Cache
+5. Merge K Sorted Linked Lists
+6. Distinct Numbers In Window
+
+
+#########################	linked-lists	#########################
+
+1. Palindrome List
+2. Partition List
+3. Add Two Numbers As Lists
+4. K Reverse Linked List
+5. List Cycle
+6. Remove Duplicates From Sorted List 2
+7. Insertion Sort List
+8. Rotate List
+9. Reverse Link List 2
+10. Sort List
+11. Merging Two Sorted Lists
+12. Removing Duplicates From Sorted List
+13. Swap List Nodes In Pairs
+14. Remove Nth Node From List End
+15. Reverse Linked List 2
+16. Reorder List
+
+
+#########################	math	#########################
+
+1. Sum Of Pairwise Hamming Distance
+2. Sorted Permutation Rank With Repeats
+3. Excel Column Number
+4. Convert Base
+5. Palindrome Integer
+6. Grid Unique Paths
+7. Sorted Permutation Rank
+8. Fizzbuzz
+9. Reverse Integer
+10. Rearrange Array
+11. Largest Coprime Divisor
+12. Excel Column Title
+13. Number Of Length N And Value Less Than K
+14. Power Of Two Integers
+15. Prime Sum
+16. Trailing Zeroes In Factorial
+17. City Tour
+18. Greatest Common Divisor
+
+
+#########################	stacks-and-queues	#########################
+
+1. Simplify Directory Path
+2. Sliding Window Maximum
+3. Evaluate Expression
+4. Min Stack
+5. Nearest Smallest Element
+6. Largest Rectangle In Histogram
+7. Redundant Braces
+8. Rain Water Trapped
+
+
+#########################	strings	#########################
+
+1. Compare Version Numbers
+2. Add Binary Strings
+3. Valid Ip Address
+4. Amazing Subarrays
+5. Length Of Last Word
+6. Valid Number
+7. Min Char Required To Make String Palen
+8. Longest Palindromic Substring
+9. Stringholics
+10. Implement Strstr
+11. Palindrome String
+12. Roman To Integer
+13. Justify Text
+14. Pretty Json
+15. Count And Say
+16. Multiply Strings
+17. Integer To Roman
+18. Power Of Two
+19. Zigzag String
+20. Reverse The String
+21. Atoi
+22. Longest Common Prefix
+
+
+#########################	tree	#########################
+
+1. Two Sum Binary Tree
+2. Populate Next Right Pointers Tree
+3. Invert The Binary Tree
+4. Inorder Traversal Cartesian Tree
+5. 2 Sum Binary Tree
+6. Recovery Bst
+7. Shortest Unique Prefix
+8. Order Of People Heights
+9. Symmetric Binary Tree
+10. Binary Tree From Inorder And Postorder
+11. Max Depth Of Binary Tree
+12. Least Common Ancestor
+13. Min Depth In Binary Tree
+14. Hotel Reviews
+15. Identical Binary Trees
+16. Sorted Array To Balanced Bst
+17. Binary Tree From Inorder And Preorder
+18. Postorder Traversal
+19. Preorder Traversal
+20. Flatten Binary Tree To Linked List
+21. Kth Smallest Element In The Tree
+22. Balanced Binary Tree
+23. Root To Leaf Path With Sum
+24. Bst Iterator
+25. Path Sum
+26. Inorder Traversal
+27. Sum Root To Leaf Number
+28. Zigzag Order Traversal
+
+
+#########################	two-pointers	#########################
+
+1. Contianer With Most Water
+2. Array 3 Pointers
+3. 3 Sum Zero
+4. Remove Duplicates From Sorted Array
+5. 3 Sum
+6. Remove Element From Array
+7. Merge Two Sorted Lists 2
+8. Intersection Of Sorted Arrays
+9. Diffk
+10. Minimize The Absolute Difference
+11. Counting Triangles
+12. Max Contigous Series Of 1s
+13. Remove Duplicates From Sorted Array 2
+14. Sort By Color

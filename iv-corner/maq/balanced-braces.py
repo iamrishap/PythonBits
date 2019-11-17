@@ -1,3 +1,0 @@
-"""
-Braces in a string
-"""
